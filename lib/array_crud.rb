@@ -2,7 +2,7 @@ def create_an_empty_array
   []
 end
 
-def create_an_array(arr, elem)
+def create_an_array
 [1, 2, 4, 5]
 end
 
